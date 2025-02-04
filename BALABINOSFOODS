@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Balbinos Agroindustrial LTDA</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #2c3e50;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #2c3e50;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #2c3e50;
+            color: #fff;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Balbinos Agroindustrial LTDA</h1>
+    </header>
+    <div class="container">
+        <h2>Sobre Nós</h2>
+        <p>A empresa foi fundada em 8 de junho de 2010, em Sidrolândia, Mato Grosso do Sul, com a razão social Balbinos Agroindustrial LTDA. Inicialmente, a empresa adquiriu o antigo matadouro da cidade e, em 2013, anunciou um projeto de modernização, com um investimento previsto de R$ 12 milhões, visando transformá-lo em um frigorífico moderno com capacidade para abater até 1.000 cabeças de gado por dia.</p>
+        
+        <h2>História</h2>
+        <p>Em 2017, a empresa iniciou o processo de seleção para contratação de aproximadamente 200 funcionários, preparando-se para o início das operações de abate. Nessa época, a parte de construção civil do prédio e a instalação dos equipamentos já estavam concluídas, e a empresa empregava cerca de 60 pessoas nos setores administrativo, portaria e manutenção.</p>
+        <p>Em 2020, a Balbinos Foods passou por uma reforma significativa, que incluiu a construção do setor de desossa, ampliando sua capacidade de processamento e diversificando seu portfólio de produtos.</p>
+        
+        <h2>Atuação</h2>
+        <p>Atualmente, a empresa possui uma planta industrial com mais de 20.000 m² de área construída e capacidade instalada para o abate de 800 bovinos por dia. Seu portfólio é diversificado, incluindo desde carne e miúdos in natura até seus derivados, obtidos de animais criados livres em pastagens.</p>
+        
+        <h2>Compromisso com a Qualidade</h2>
+        <p>A Balbinos Foods mantém um compromisso com a qualidade, segurança alimentar e sustentabilidade, seguindo rigorosos padrões de processamento e responsabilidade ambiental e socioeconômica. A empresa possui certificações que atestam o cumprimento de exigências de órgãos oficiais nacionais e internacionais no processo de abate, incluindo aspectos culturais e religiosos.</p>
+        
+        <h2>Nossos Produtos</h2>
+        <ul>
+            <li><strong>Tradicional:</strong> Cortes tradicionais de carne bovina para o dia a dia.</li>
+            <li><strong>Gourmet:</strong> Cortes premium para uma experiência diferenciada.</li>
+            <li><strong>Grill:</strong> Produtos especiais para churrascos e grelhados.</li>
+        </ul>
+    </div>
+    <footer>
+        <p>&copy; 2025 Balbinos Agroindustrial LTDA - Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
